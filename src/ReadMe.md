@@ -3,7 +3,7 @@
 folder structure
 
 src
---Raj's folder
+--<<foldername>> folder
   --datacollection.py
   --dataset.py
   --traingest.py
